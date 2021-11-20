@@ -1,0 +1,61 @@
+/* /* body{
+  background-color: green
+}
+h1{
+ background-color:yellow
+} */
+
+/* .picture1{ 
+ width: 100%
+}
+
+.list{  
+  list-style:lower-roman;
+}
+ */
+/* .redfont{
+  color: red
+}
+
+  color:blue
+}
+p */  https://yt3.ggpht.com/hCjUTNmcNEvxXmbck5zlAFiDMZs-ptVt6ycwuts_X74C1Dcq03-KUuM8b-zTCYoML1a9IDpXTw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj
+body{
+  background-image:url(https://i.ytimg.com/vi/Oz4IkCOmnmE/hqdefault.jpg);
+ background-repeat: no-repeat;
+ background-size: cover; 
+}
+body{
+  background-image:url(https://i.ytimg.com/vi/Oz4IkCOmnmE/hqdefault.jpg);
+ background-repeat: no-repeat;
+ background-size: cover; 
+}
+
+
+.block1{
+  background-color:cyan;
+width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  
+  border: 10px outset red
+    border-radius: 50px;
+}
+
+.block2{
+  background-color:green;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  .cricle{
+    margin: 10px;
+    background-color: purple;
+    width;
+    
+  }
+  
+  
+ border: 10px inset red
+}
